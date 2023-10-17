@@ -3,7 +3,7 @@ Business Request from Steven who is a Sales Manager
 
 - Steven - Sales Manager
 
-I hopew you are doing well. We need to improve our internet sales report and want to move from static to visual dashboards.
+I hope you are doing well. We need to improve our internet sales report and want to move from static to visual dashboards.
 
 Essentially, we want to focus it on how much we have sold of what products, to which clients and how it has been over time.
 
